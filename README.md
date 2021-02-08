@@ -1,4 +1,7 @@
+
 # nananiji-calculator
+
+![Rust](https://github.com/komori-n/nananiji-calculator/workflows/Rust/badge.svg?branch=main)
 
 Generate "(mathematical) nananiji  expression" for any given integers.
 
