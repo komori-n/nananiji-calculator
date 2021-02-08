@@ -3,7 +3,7 @@ name = "nananiji-calculator"
 version = "0.1.0"
 authors = ["komori <ikamat.kmr@gmail.com>"]
 edition = "2018"
-description = "generate a mathematical expression equals to a given number with \"nananiji number\" sets"
+description = "Generate mathematical nananiji expression for any given integers"
 license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

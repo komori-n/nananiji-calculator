@@ -3,7 +3,7 @@
 
 ![Rust](https://github.com/komori-n/nananiji-calculator/workflows/Rust/badge.svg?branch=main)
 
-Generate "(mathematical) nananiji  expression" for any given integers.
+Generate mathematical nananiji  expression for any given integers.
 
 ## Getting Started
 
